@@ -1,5 +1,5 @@
-# Final_Project_Team4_Red_vs_White
-## Project Title: Red_vs_White Wine
+# Final Project - Team4 - Wine Quality and Machine Learning 
+## Project Title: Red vs White Wine
 
 ![redvswhite]( https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/Images/shutterstock_249172333.jpg)
 ---
@@ -14,6 +14,9 @@
 - <b>Triangle:</b> Responsible for mockup/machine learning model
 - <b>Circle:</b> Responsible for mockup/database
 - <b>X:</b> Responsible for which technologies/strategy for life of project
+
+   ### Communication Protocols
+   - For the duration of this project, Slack was the primary communication platform, with email and text message as secondary options, and Zoom technology supported twice weekly and adhoc meetings.    
 
 ## Project Technology Used:
 - GitHub

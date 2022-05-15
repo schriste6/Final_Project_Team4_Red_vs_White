@@ -1,1 +1,0 @@
-select count (id) from combined_wine_quality

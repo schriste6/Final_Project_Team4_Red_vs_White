@@ -68,7 +68,7 @@ The red and white wines are from the Portuguese “Vinho Verde” wine. For more
           7. <b>total sulfur dioxide</b>: amount of free and bound forms of S02; in low concentrations, SO2 is mostly undetectable in wine, but at free SO2 concentrations over 50 ppm, SO2 becomes evident in the nose and taste of wine
           8. <b>density</b>: the density of water is close to that of water depending on the percent alcohol and sugar content
           9. <b>pH</b>: describes how acidic or basic a wine is on a scale from 0 (very acidic) to 14 (very basic); most wines are between 3-4 on the pH scale
-          10.<b>sulphates</b>: a wine additive which can contribute to sulfur dioxide gas (S02) levels, wich acts as an antimicrobial and antioxidant
+          10. <b>sulphates</b>: a wine additive which can contribute to sulfur dioxide gas (S02) levels, wich acts as an antimicrobial and antioxidant
           11. <b>alcohol</b>: the percent alcohol content of the wine       
           12. <b>quality (based on sensory data)</b>: (score between 0 and 10)
 - <b>Questions we hope to answer with the data:</b>

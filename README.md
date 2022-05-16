@@ -37,8 +37,8 @@ Two datasets were created, using red and white wine samples. The inputs include 
 The red and white wines are from the Portuguese “Vinho Verde” wine. For more details, consult: http://www.vinhoverde.pt/en/ or the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
 
     - <b>Data Sets</b>: 
-      - [winequality-red.csv](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/Original%20CSVs/winequality-red.csv) 
-      - [winequality-white.csv](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/Original%20CSVs/winequality-white.csv) 
+      - [winequality-red.csv](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/Datasets/winequality-red.csv) 
+      - [winequality-white.csv](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/Datasets/winequality-white.csv) 
     - <b>Data sets information</b>: 
        - winequality-red.csv has 1599 rows and 12 columns.  
        - winequality-white.csv has 4898 rows and 12 columns.

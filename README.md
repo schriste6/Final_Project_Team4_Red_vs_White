@@ -34,7 +34,7 @@
  - Machine Learning
     - SciKitLearn is the ML library we'll be using to create a classifier. Our training White:4408, red:1439. Our testing White:490, red:160.
  - Dashboard
-  - In addition to using a tableau, we will also integrate fully functioning and interactive dashboard.  
+   - In addition to using a tableau, we will also integrate fully functioning and interactive dashboard.  
 
 ## First Segment: Sketch It Out:
 

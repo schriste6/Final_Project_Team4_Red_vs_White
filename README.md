@@ -15,8 +15,12 @@
 - <b>Circle:</b> Responsible for mockup/database
 - <b>X:</b> Responsible for which technologies/strategy for life of project
 
-   ### Communication Protocols
+## Communication Protocols
    - For the duration of this project, Slack was the primary communication platform, with email and text message as secondary options, and Zoom technology supported twice weekly and adhoc meetings.    
+
+## Machine learning model: 
+   - Classification
+
 
 ## Project Technology Used:
 - GitHub
@@ -73,7 +77,6 @@ The red and white wines are from the Portuguese “Vinho Verde” wine. For more
           12. <b>quality (based on sensory data)</b>: (score between 0 and 10)
 - <b>Questions we hope to answer with the data:</b>
     - Can we use a machine learning algorithm to predict if the wine is red or white based on features of the wines?
-    - Can we predict the quality of each red and white wine sample, to determine if it is low, medium, or high quality? 
 
 
 ## First Segment Requirements:

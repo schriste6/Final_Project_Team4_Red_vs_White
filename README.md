@@ -19,7 +19,7 @@
    - For the duration of this project, Slack was the primary communication platform, with email and text message as secondary options, and Zoom technology supported twice weekly and adhoc meetings.    
 
 ## Machine learning model: 
-   - Classification: In addition to using a Flask template, we will also integrate D3.js for a fully functioning and interactive dashboard. It will be hosted on ___.
+   - <b>Classification:</b> The classification algorithm is a Supervised Learning Technique that is used to identify the category of new observations on the casis of training data. In Classiffication, a program learns from the given dataset or observations and then classifies new observation into a number of classes or groups.
 
 
 ## Project Technology Used:

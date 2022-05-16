@@ -19,7 +19,7 @@
    - For the duration of this project, Slack was the primary communication platform, with email and text message as secondary options, and Zoom technology supported twice weekly and adhoc meetings.    
 
 ## Machine learning model: 
-   - Classification
+   - Classification: In addition to using a Flask template, we will also integrate D3.js for a fully functioning and interactive dashboard. It will be hosted on ___.
 
 
 ## Project Technology Used:
@@ -27,10 +27,14 @@
     - Main Branch
     - Individual Branches (4)
     - Readme
-- Postgres
-    - SQL
-- Python
-    - Jupiter notebook
+- Data Cleaning and Analysis
+    - Motplotlib and Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
+- Database Storage
+    - Postgres is the database we intend to use, and we will use sqlalchmey to connect database. Further analysis will be completed using Postgres.
+ - Machine Learning
+    - SciKitLearn is the ML library we'll be using to create a classifier. Our training White:4408, red:1439. Our testing White:490, red:160.
+ - Dashboard
+  - In addition to using a tableau, we will also integrate fully functioning and interactive dashboard.  
 
 ## First Segment: Sketch It Out:
 

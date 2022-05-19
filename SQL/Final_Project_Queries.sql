@@ -11,7 +11,7 @@ Create Table wine_quality_white (
 	"pH" FLOAT(53) NOT NULL,
 	"sulphates" FLOAT(53) NOT NULL,
 	"alcohol" FLOAT(53) NOT NULL,
-	"quality" FLOAT(53) NOT NULL,
+	"quality" INT NOT NULL,
 ;
 	
 --Creating table wine_quality red
@@ -27,7 +27,7 @@ Create Table wine_quality_red (
 	"pH" FLOAT(53) NOT NULL,
 	"sulphates" FLOAT(53) NOT NULL,
 	"alcohol" FLOAT(53) NOT NULL,
-	"quality" FLOAT(53) NOT NULL,
+	"quality" INT NOT NULL,
 ;
 	
 --adding color to red table

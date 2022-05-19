@@ -40,7 +40,7 @@ UPDATE wine_quality_red SET color='red';
 ALTER TABLE wine_quality_white
 ADD color VARCHAR(40);
 	
-UPDATE wine_quality_white SET color='red';
+UPDATE wine_quality_white SET color='white';
 	
 --adding id column to red table with numbering assigned
 

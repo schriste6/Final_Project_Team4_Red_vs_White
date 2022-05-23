@@ -11,7 +11,7 @@ Create Table wine_quality_white (
 	"pH" FLOAT(53) NOT NULL,
 	"sulphates" FLOAT(53) NOT NULL,
 	"alcohol" FLOAT(53) NOT NULL,
-	"quality" FLOAT(53) NOT NULL,
+	"quality" INT NOT NULL,
 ;
 	
 --Creating table wine_quality red
@@ -27,7 +27,7 @@ Create Table wine_quality_red (
 	"pH" FLOAT(53) NOT NULL,
 	"sulphates" FLOAT(53) NOT NULL,
 	"alcohol" FLOAT(53) NOT NULL,
-	"quality" FLOAT(53) NOT NULL,
+	"quality" INT NOT NULL,
 ;
 	
 --adding color to red table
@@ -40,7 +40,7 @@ UPDATE wine_quality_red SET color='red';
 ALTER TABLE wine_quality_white
 ADD color VARCHAR(40);
 	
-UPDATE wine_quality_white SET color='red';
+UPDATE wine_quality_white SET color='white';
 	
 --adding id column to red table with numbering assigned
 

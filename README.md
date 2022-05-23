@@ -3,6 +3,12 @@
 
 ![redvswhite]( https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/Images/shutterstock_249172333.jpg)
 ---
+
+[Link to Good Slides Presentation (draft)](https://docs.google.com/presentation/d/1pPYPIXXhRFoOzt5iiAWw96NKfVK3uW4QkJN_iUF9DdE/edit?usp=sharing) 
+
+Link to Tableau Dashboard (pending)
+
+
 ## Machine learning model: 
    - <b>Classification:</b> The classification algorithm is a Supervised Learning Technique that is used to identify the category of new observations on the casis of training data. In Classiffication, a program learns from the given dataset or observations and then classifies new observation into a number of classes or groups.
 

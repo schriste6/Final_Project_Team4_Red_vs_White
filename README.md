@@ -74,47 +74,7 @@ The red and white wines are from the Portuguese “Vinho Verde” wine. For more
           11. <b>alcohol</b>: the percent alcohol content of the wine       
           12. <b>quality (based on sensory data)</b>: (score between 0 and 10)
 - <b>Questions we hope to answer with the data:</b>
-    - Can we use a machine learning algorithm to predict if the wine is red or white based on features of the wines?
-    - Can we predict the quality of each red and white wine sample, to determine if it is low, medium, or high quality? 
-
-
-## First Segment Requirements:
-### 1.	Presentation (x)
-
-    - Content Team members have drafted their project, including the following:
-      - Selected Topic:
-      - Reason for selected topic:
-      - Description of source data:
-      - Questions we hope to answer with the data:
-
-    Note: The content does not yet need to be in the form of a presentation; text in the README.md works as well. 
-
-### 2.	GitHub(Square) 
-     - Main Branch
-       - Includes a README.md
-    - README.md 
-      - README.md must include Description of the communication protocols
-    - Individual Branches
-      - At least one branch for each team member 
-      - Each team member has at least four commits from the duration of the first segment
-
-    Note: The descriptions and explanations required in all other project deliverables should also be in your README.md as part of your outline, unless  otherwise noted.
-
-### 3.	Machine Learning (Triangle) 
-    - Team members present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
-      - Takes in data in from the provisional database 
-      - Outputs label(s) for input data
-
-### 4.	Database (Circle)
-    - Team members present a provisional database that stands in for the final database and accomplishes the following:
-      - Sample data that mimics the expected final database structure or schema 
-      - Draft machine learning module is connected to the provisional database
-
-### 5.	Dashboard
-    - N/A
-
-    - Can we predict the quality of each red and white wine samples, to determine if it is low, medium,  or high quality?
-
+     - Can we predict the quality of each red and white wine sample, to determine if it is low, medium, or high quality? 
 
 ## Second Segment: Build the Pieces:
 

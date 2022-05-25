@@ -3,29 +3,32 @@
 
 ![redvswhite]( https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/Images/shutterstock_249172333.jpg)
 ---
+## Project Team Members and their roles
+- <b>Square:</b> Sue Christensen
+- <b>Triangle:</b> Dhileepan Raju
+- <b>Circle:</b> Jessica Meyer
+- <b>X:</b> Mary Uhlir
 
-[Link to Google Slides Presentation (draft)](https://docs.google.com/presentation/d/1pPYPIXXhRFoOzt5iiAWw96NKfVK3uW4QkJN_iUF9DdE/edit?usp=sharing) 
-
-Link to Tableau Dashboard (pending)
-
-
+## Team Member Role Responsibilities
+- <b>Square:</b> Responsible for Github repository and branches
+- <b>Triangle:</b> Responsible for mockup/machine learning model
+- <b>Circle:</b> Responsible for mockup/database
+- <b>X:</b> Responsible for which technologies/strategy for life of project
 ## Machine learning model: 
-   - <b>Classification:</b> The classification algorithm is a Supervised Learning Technique that is used to identify the category of new observations on the casis of training data. In Classiffication, a program learns from the given dataset or observations and then classifies new observation into a number of classes or groups.
+   - <b>Classification:</b> The classification algorithm is a Supervised Learning Technique that is used to identify the category of new observations on the basis of training data. In Classiffication, a program learns from the given dataset or observations and then classifies new observation into a number of classes or groups.
 
+   ### Communication Protocols
+   - For the duration of this project, Slack was the primary communication platform, with email and text message as secondary options, and Zoom technology supported twice weekly and adhoc meetings.    
 
 ## Project Technology Used:
 - GitHub
     - Main Branch
     - Individual Branches (4)
     - Readme
-- Data Cleaning and Analysis
-    - Motplotlib and Pandas will be used to clean the data and perform an exploratory analysis. Further analysis will be completed using Python.
-- Database Storage
-    - Postgres is the database we intend to use, and we will use sqlalchmey to connect database. Further analysis will be completed using Postgres.
- - Machine Learning
-    - SciKitLearn is the ML library we'll be using to create a classifier. Our training White:4408, red:1439. Our testing White:490, red:160.
- - Dashboard
-   - In addition to using a tableau, we will also integrate fully functioning and interactive dashboard.  
+- Postgres
+    - SQL
+- Python
+    - Jupiter notebook
 
 ## First Segment: Sketch It Out:
 
@@ -36,8 +39,8 @@ Two datasets were created, using red and white wine samples. The inputs include 
 The red and white wines are from the Portuguese “Vinho Verde” wine. For more details, consult: http://www.vinhoverde.pt/en/ or the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
 
     - <b>Data Sets</b>: 
-      - [winequality-red.csv](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/Datasets/winequality-red.csv) 
-      - [winequality-white.csv](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/Datasets/winequality-white.csv) 
+      - winequality-red.csv
+      - winequality-white.csv
     - <b>Data sets information</b>: 
        - winequality-red.csv has 1599 rows and 12 columns.  
        - winequality-white.csv has 4898 rows and 12 columns.
@@ -67,8 +70,22 @@ The red and white wines are from the Portuguese “Vinho Verde” wine. For more
           7. <b>total sulfur dioxide</b>: amount of free and bound forms of S02; in low concentrations, SO2 is mostly undetectable in wine, but at free SO2 concentrations over 50 ppm, SO2 becomes evident in the nose and taste of wine
           8. <b>density</b>: the density of water is close to that of water depending on the percent alcohol and sugar content
           9. <b>pH</b>: describes how acidic or basic a wine is on a scale from 0 (very acidic) to 14 (very basic); most wines are between 3-4 on the pH scale
-          10. <b>sulphates</b>: a wine additive which can contribute to sulfur dioxide gas (S02) levels, wich acts as an antimicrobial and antioxidant
+          10.<b>sulphates</b>: a wine additive which can contribute to sulfur dioxide gas (S02) levels, wich acts as an antimicrobial and antioxidant
           11. <b>alcohol</b>: the percent alcohol content of the wine       
           12. <b>quality (based on sensory data)</b>: (score between 0 and 10)
 - <b>Questions we hope to answer with the data:</b>
-    - Can we use a machine learning algorithm to predict if the wine is red or white based on features of the wines?
+     - Can we predict the quality of each red and white wine sample, to determine if it is low, medium, or high quality? 
+
+## Second Segment: Build the Pieces:
+
+- [Link to Google Slides Presentation (draft)](https://docs.google.com/presentation/d/1pPYPIXXhRFoOzt5iiAWw96NKfVK3uW4QkJN_iUF9DdE/edit?usp=sharing) 
+
+- Overview of the database with tables and relationship, and a connection string (SQLAlchemy)
+   - [Database and SQL steps documentation file](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/Database%20and%20SQL%20steps.docx)
+      - [ERD.png](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/ERD.png)
+      - [Final_Project_Queries.sql](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/Final_Project_Queries.sql)
+      - [Combined_Wine_Quality_.csv](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/combined_wine_quality.csv)
+- Brief explanation of the description of ML model from preprocessing to training and testing
+
+- Link to  Dashboard (placeholder - - will add link upon final development)
+   - Link to Dashboard Concept

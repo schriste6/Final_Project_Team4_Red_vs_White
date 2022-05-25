@@ -14,7 +14,7 @@
 - <b>Triangle:</b> Responsible for mockup/machine learning model
 - <b>Circle:</b> Responsible for mockup/database
 - <b>X:</b> Responsible for which technologies/strategy for life of project
-## Machine Learning model: 
+## Machine Learning Model: 
    - <b>Classification:</b> The classification algorithm is a Supervised Learning Technique that is used to identify the category of new observations on the basis of training data. In Classiffication, a program learns from the given dataset or observations and then classifies new observation into a number of classes or groups.
 
 ## Communication Protocols

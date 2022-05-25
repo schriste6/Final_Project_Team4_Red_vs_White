@@ -80,13 +80,13 @@ The red and white wines are from the Portuguese “Vinho Verde” wine. For more
 
 - [Link to Google Slides Presentation (draft)](https://docs.google.com/presentation/d/1pPYPIXXhRFoOzt5iiAWw96NKfVK3uW4QkJN_iUF9DdE/edit?usp=sharing) 
 
-- Overview of the database with tables and relationship, and a connection string (SQLAlchemy)
+- Database:
    - [Database and SQL steps documentation file](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/Database%20and%20SQL%20steps.docx)
       - [ERD](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/ERD.png)
       - [Final_Project_Queries](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/Final_Project_Queries.sql)
       - [Connection String](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/connectionstring.ipynb)
       - [Combined Wine Quality CSV](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/combined_wine_quality.csv)
-- Brief explanation of the description of ML model from preprocessing to training and testing
+- Machine Learning:
 
 - Link to  Dashboard (placeholder - - will add link upon final development)
    - Link to Dashboard Concept

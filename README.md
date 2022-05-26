@@ -1,5 +1,5 @@
-# Final_Project_Team4_Red_vs_White
-## Project Title: Red_vs_White Wine
+# Final Project - Team4 - Wine Quality and Machine Learning 
+## Project Title: Red vs White Wine
 
 ![redvswhite]( https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/Images/shutterstock_249172333.jpg)
 ---
@@ -14,6 +14,11 @@
 - <b>Triangle:</b> Responsible for mockup/machine learning model
 - <b>Circle:</b> Responsible for mockup/database
 - <b>X:</b> Responsible for which technologies/strategy for life of project
+## Machine Learning Model: 
+   - <b>Classification:</b> The classification algorithm is a Supervised Learning Technique that is used to identify the category of new observations on the basis of training data. In Classiffication, a program learns from the given dataset or observations and then classifies new observation into a number of classes or groups.
+
+## Communication Protocols
+   - For the duration of this project, Slack was the primary communication platform, with email and text message as secondary options, and Zoom technology supported twice weekly and adhoc meetings.    
 
 ## Project Technology Used:
 - GitHub
@@ -24,6 +29,7 @@
     - SQL
 - Python
     - Jupiter notebook
+- Tableau
 
 ## First Segment: Sketch It Out:
 
@@ -69,42 +75,19 @@ The red and white wines are from the Portuguese “Vinho Verde” wine. For more
           11. <b>alcohol</b>: the percent alcohol content of the wine       
           12. <b>quality (based on sensory data)</b>: (score between 0 and 10)
 - <b>Questions we hope to answer with the data:</b>
-    - Can we use a machine learning algorithm to predict if the wine is red or white based on features of the wines?
-    - Can we predict the quality of each red and white wine sample, to determine if it is low, medium, or high quality? 
+     - Can we predict the quality of each red and white wine sample, to determine if it is low, medium, or high quality? 
 
+## Second Segment: Build the Pieces:
 
-## First Segment Requirements:
-### 1.	Presentation (x)
+- [Link to Google Slides Presentation (draft)](https://docs.google.com/presentation/d/1pPYPIXXhRFoOzt5iiAWw96NKfVK3uW4QkJN_iUF9DdE/edit?usp=sharing) 
 
-    - Content Team members have drafted their project, including the following:
-      - Selected Topic:
-      - Reason for selected topic:
-      - Description of source data:
-      - Questions we hope to answer with the data:
+- Database:
+   - [Database and SQL steps documentation file](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/Database%20and%20SQL%20steps.docx)
+      - [ERD](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/ERD.png)
+      - [Final_Project_Queries](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/Final_Project_Queries.sql)
+      - [Connection String](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/connectionstring.ipynb)
+      - [Combined Wine Quality CSV](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/combined_wine_quality.csv)
+- Machine Learning:
 
-    Note: The content does not yet need to be in the form of a presentation; text in the README.md works as well. 
-
-### 2.	GitHub(Square) 
-     - Main Branch
-       - Includes a README.md
-    - README.md 
-      - README.md must include Description of the communication protocols
-    - Individual Branches
-      - At least one branch for each team member 
-      - Each team member has at least four commits from the duration of the first segment
-
-    Note: The descriptions and explanations required in all other project deliverables should also be in your README.md as part of your outline, unless  otherwise noted.
-
-### 3.	Machine Learning (Triangle) 
-    - Team members present a provisional machine learning model that stands in for the final machine learning model and accomplishes the following:
-      - Takes in data in from the provisional database 
-      - Outputs label(s) for input data
-
-### 4.	Database (Circle)
-    - Team members present a provisional database that stands in for the final database and accomplishes the following:
-      - Sample data that mimics the expected final database structure or schema 
-      - Draft machine learning module is connected to the provisional database
-
-### 5.	Dashboard
-    - N/A
-
+- Link to  Dashboard (placeholder - - will add link upon final development)
+   - Link to Dashboard Concept

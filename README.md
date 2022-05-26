@@ -49,32 +49,22 @@ The red and white wines are from the Portuguese “Vinho Verde” wine. For more
        - 11 input attributes
        - 1 output attribute
     - <b>Attributes</b>: 
-      - fixed acidity
-      - volatile acidity
-      - citric acid
-      - residual sugar
-      - chlorides
-      - free sulfur dioxide
-      - total sulfur dioxide
-      - density
-      - pH
-      - sulphates
-      - alcohol
-      - quality
-     - <b>Description of attributes</b>:
-          1. <b>fixed acidity</b>: most acids involved with wine or fixed or nonvolatile (do not evaporate readily)
-          2. <b>volatile acidity</b>: the amount of acetic acid in wine, which at too high of levels can lead to an unpleasant, vinegar taste
-          3. <b>citric acid</b>: found in small quantities, citric acid can add ‘freshness’ and flavor to wines
-          4. <b>residual sugar</b>: the amount of sugar remaining after fermentation stops, it’s rare to find wines with less than 1 gram/liter and wines with greater than 45 grams/liter are considered sweet
-          5. <b>chlorides</b>: the amount of salt in the wine
-          6. <b>free sulfur dioxide</b>: the free form of SO2 exists in equilibrium between molecular SO2 (as a dissolved gas) and bisulfite ion; it prevents microbial growth and the oxidation of wine
-          7. <b>total sulfur dioxide</b>: amount of free and bound forms of S02; in low concentrations, SO2 is mostly undetectable in wine, but at free SO2 concentrations over 50 ppm, SO2 becomes evident in the nose and taste of wine
-          8. <b>density</b>: the density of water is close to that of water depending on the percent alcohol and sugar content
-          9. <b>pH</b>: describes how acidic or basic a wine is on a scale from 0 (very acidic) to 14 (very basic); most wines are between 3-4 on the pH scale
-          10.<b>sulphates</b>: a wine additive which can contribute to sulfur dioxide gas (S02) levels, wich acts as an antimicrobial and antioxidant
-          11. <b>alcohol</b>: the percent alcohol content of the wine       
-          12. <b>quality (based on sensory data)</b>: (score between 0 and 10)
-- <b>Questions we hope to answer with the data:</b>
+      1. fixed acidity
+      2. volatile acidity
+      3. citric acid
+      4. residual sugar
+      5. chlorides
+      6. free sulfur dioxide
+      7. total sulfur dioxide
+      8. density
+      9. pH
+      10. sulphates
+      11. alcohol
+      12. quality
+         
+     - [Link to Description of Wine Attributes](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/Images/Desc_of_wine_attributes.png)
+        
+- <b>Question we hope to answer with the data:</b>
      - Can we predict the quality of each red and white wine sample, to determine if it is low, medium, or high quality? 
 
 ## Second Segment: Build the Pieces:

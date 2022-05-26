@@ -30,6 +30,9 @@
 - Python
     - Jupiter notebook
 - Tableau
+- WordPress
+     - JavaScript
+     - HTML
 
 ## First Segment: Sketch It Out:
 

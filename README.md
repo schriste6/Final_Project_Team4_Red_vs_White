@@ -51,7 +51,7 @@ The red and white wines are from the Portuguese “Vinho Verde” wine. For more
     - <b>Data set attributes</b>: 
        - 11 input attributes
        - 1 output attribute
-    - <b>Attributes</b>: 
+    - <b>Wine Attributes</b>: 
       1. fixed acidity
       2. volatile acidity
       3. citric acid

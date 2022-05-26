@@ -14,10 +14,10 @@
 - <b>Triangle:</b> Responsible for mockup/machine learning model
 - <b>Circle:</b> Responsible for mockup/database
 - <b>X:</b> Responsible for which technologies/strategy for life of project
-## Machine learning model: 
+## Machine Learning Model: 
    - <b>Classification:</b> The classification algorithm is a Supervised Learning Technique that is used to identify the category of new observations on the basis of training data. In Classiffication, a program learns from the given dataset or observations and then classifies new observation into a number of classes or groups.
 
-   ### Communication Protocols
+## Communication Protocols
    - For the duration of this project, Slack was the primary communication platform, with email and text message as secondary options, and Zoom technology supported twice weekly and adhoc meetings.    
 
 ## Project Technology Used:
@@ -29,6 +29,7 @@
     - SQL
 - Python
     - Jupiter notebook
+- Tableau
 
 ## First Segment: Sketch It Out:
 
@@ -80,12 +81,14 @@ The red and white wines are from the Portuguese “Vinho Verde” wine. For more
 
 - [Link to Google Slides Presentation (draft)](https://docs.google.com/presentation/d/1pPYPIXXhRFoOzt5iiAWw96NKfVK3uW4QkJN_iUF9DdE/edit?usp=sharing) 
 
-- Overview of the database with tables and relationship, and a connection string (SQLAlchemy)
+- Database:
    - [Database and SQL steps documentation file](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/Database%20and%20SQL%20steps.docx)
-      - [ERD.png](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/ERD.png)
-      - [Final_Project_Queries.sql](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/Final_Project_Queries.sql)
-      - [Combined_Wine_Quality_.csv](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/combined_wine_quality.csv)
-- Brief explanation of the description of ML model from preprocessing to training and testing
+      - [ERD](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/ERD.png)
+      - [Final_Project_Queries](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/Final_Project_Queries.sql)
+      - [Connection String](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/connectionstring.ipynb)
+      - [Combined Wine Quality CSV](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/combined_wine_quality.csv)
+- Machine Learning:
 
 - Link to  Dashboard (placeholder - - will add link upon final development)
-   - Link to Dashboard Concept
+   - Link to [Dashboard Concept](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/Dashboard/blueprint.pptx)
+   - Link to [Draft_Website] (https://winequalityprediction.wordpress.com/)

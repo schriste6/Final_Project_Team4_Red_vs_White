@@ -52,18 +52,18 @@ The red and white wines are from the Portuguese “Vinho Verde” wine. For more
        - 11 input attributes
        - 1 output attribute
     - <b>Wine Attributes</b>: 
-      1. fixed acidity
-      2. volatile acidity
-      3. citric acid
-      4. residual sugar
-      5. chlorides
-      6. free sulfur dioxide
-      7. total sulfur dioxide
-      8. density
-      9. pH
-      10. sulphates
-      11. alcohol
-      12. quality
+         - fixed acidity
+         - volatile acidity
+         - citric acid
+         -  residual sugar
+         -  chlorides
+         -  free sulfur dioxide
+         -  total sulfur dioxide
+         -  density
+         -  pH
+         -  sulphates
+         -  alcohol
+         -  quality
          
      - [Link to Description of Wine Attributes](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/Images/Desc_of_wine_attributes.png)
         

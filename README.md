@@ -34,6 +34,8 @@
 
 - <b>Topic:</b> Red vs White Wine
 - <b>Reason for selected topic:</b> This topic was one that all the members of the group had some familiarity with the subject and an interest in it as well.
+- <b>Objective:</b> Accurately predict wine quality based on 11 physicochemical attributes with machine learning and available wine data sets.  
+- <b>Target Audience:</b> Winemakers (aka Vintners)
 - <b>Description of source data:</b> 
 Two datasets were created, using red and white wine samples. The inputs include objective tests (e.g. PH values) and the output is based on sensory data (median of at least 3 evaluations made by wine experts). Each expert graded the wine quality between 0 (very bad) and 10 (very excellent).
 The red and white wines are from the Portuguese “Vinho Verde” wine. For more details, consult: http://www.vinhoverde.pt/en/ or the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).

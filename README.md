@@ -1,19 +1,15 @@
 # Final Project - Team4 - Wine Quality and Machine Learning 
-## Project Title: Red vs White Wine
+
 
 ![redvswhite]( https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/Images/shutterstock_249172333.jpg)
----
-## Project Team Members and their roles
-- <b>Square:</b> Sue Christensen
-- <b>Triangle:</b> Dhileepan Raju
-- <b>Circle:</b> Jessica Meyer
-- <b>X:</b> Mary Uhlir
+# Wine Quality and Machine Learning 
+## Project Title: Red vs White Wine
+## Project Team Members and their role responsibilities
+- <b>Square:</b> Sue Christensen - Responsible for Github repository and branches
+- <b>Triangle:</b> Dhileepan Raju - Responsible for mockup/machine learning model
+- <b>Circle:</b> Jessica Meyer - Responsible for mockup/database
+- <b>X:</b> Mary Uhlir - Responsible for which technologies/strategy for life of project
 
-## Team Member Role Responsibilities
-- <b>Square:</b> Responsible for Github repository and branches
-- <b>Triangle:</b> Responsible for mockup/machine learning model
-- <b>Circle:</b> Responsible for mockup/database
-- <b>X:</b> Responsible for which technologies/strategy for life of project
 ## Machine Learning Model: 
    - <b>Classification:</b> The classification algorithm is a Supervised Learning Technique that is used to identify the category of new observations on the basis of training data. In Classiffication, a program learns from the given dataset or observations and then classifies new observation into a number of classes or groups.
 
@@ -51,11 +47,11 @@ The red and white wines are from the Portuguese “Vinho Verde” wine. For more
     - <b>Data set attributes</b>: 
        - 11 input attributes
        - 1 output attribute
-    - <b>Wine Attributes:  inputs (based on physicochemical tests)</b>: 
-         1 - fixed acidity, 2 - volatile acidity, 3 - citric acid, 4 - residual sugar, 5 - chlorides, 6 - free sulfur dioxide, 7 - total sulfur dioxide, 8 - density, 9 - pH, 10 - sulphates, 11 - alcohol
-      - <b>Wine Attributes:  output (based on scensory data)/b>: 12 - quality 
+    - <b>Wine Attributes</b>:   
+       - **Inputs (based on physicochemical tests):** 1 - fixed acidity 2 - volatile acidity 3 - citric acid 4 - residual sugar 5 - chlorides 6 - free sulfur dioxide 7 - total sulfur dioxide 8 - density 9 - pH 10 - sulphates 11 - alcohol   
+       - **Output (based on scensory data):** 12 - quality 
          
-     - [Link to Description of Wine Attributes](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/Images/Desc_of_wine_attributes.png)
+    - [Link to Wine Attributes Descriptions](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/Images/Desc_of_wine_attributes.png)
         
 - <b>Question we hope to answer with the data:</b>
      - Can we predict the quality of each red and white wine sample, to determine if it is low, medium, or high quality? 

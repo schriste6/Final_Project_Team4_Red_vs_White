@@ -54,7 +54,7 @@ The red and white wines are from the Portuguese “Vinho Verde” wine. For more
     - [Link to Wine Attributes Descriptions](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/Images/Desc_of_wine_attributes.png)
         
 - <b>Question we hope to answer with the data:</b>
-     - Can we predict the quality of each red and white wine sample, to determine if it is low, medium, or high quality? 
+     - Can we predict the quality of red and white wine samples, based on physicochemical tests, to determine if it is low, medium, or high quality? 
 
 ## Second Segment: Build the Pieces:
 

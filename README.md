@@ -69,6 +69,16 @@ The red and white wines are from the Portuguese “Vinho Verde” wine. For more
       - [Connection String](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/connectionstring.ipynb)
       - [Combined Wine Quality CSV](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/combined_wine_quality.csv)
 - Machine Learning:
+      - Link to [Machine Learning File](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/ML/wine_quality.ipynb)
+      - Outcome based on ML
+         ```
+            Random Forest Model from Sklearn gives better prediction results compare to other models
+            Higher the Alcohol content the Grade of wine is better
+            Lower the Sulfur Dioxide the Grade of the wine is better (High quality wines has low SO2)     
+- Model Comparison
+
+![ML Output](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/ML/model_comparison.png)
+
 
 - Link to  Dashboard (placeholder - - will add link upon final development)
    - Link to [Dashboard Concept](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/Dashboard/blueprint.pptx)

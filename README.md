@@ -90,8 +90,8 @@ The red and white wines are from the Portuguese “Vinho Verde” wine. For more
    - Link to [Draft_Website] (https://winequalityprediction.wordpress.com/)
 
 - Description of the tool(s) that will be used to create final dashboard 
-   - Tableau is a very powerful tool which is fast growing to be number 1 in data visualization for the Business Intelligence Industry. It helps in simplifying raw data in a very user-friendly format which makes it understandable by professionals at any level within an organization.
-   - WordPress is a flexible blogging and content management system that enables users to create, publish and manage websites
+   - <b>Tableau</b> is a very powerful tool which is fast growing to be number 1 in data visualization for the Business Intelligence Industry. It helps in simplifying raw data in a very user-friendly format which makes it understandable by professionals at any level within an organization.
+   - <b>WordPress</b> is a flexible blogging and content management system that enables users to create, publish and manage websites
    
 - Description of interactive element(s)
    - <b>Interactive Tableau charts</b> – A combination of line, bar, scatter graphs

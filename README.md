@@ -88,3 +88,15 @@ The red and white wines are from the Portuguese “Vinho Verde” wine. For more
 - Link to  Dashboard (placeholder - - will add link upon final development)
    - Link to [Dashboard Concept](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/Dashboard/blueprint.pptx)
    - Link to [Draft_Website] (https://winequalityprediction.wordpress.com/)
+
+- Description of the tool(s) that will be used to create final dashboard 
+   - Tableau is a very powerful tool which is fast growing to be number 1 in data visualization for the Business Intelligence Industry. It helps in simplifying raw data in a very user-friendly format which makes it understandable by professionals at any level within an organization.
+   - WordPress is a flexible blogging and content management system that enables users to create, publish and manage websites
+   
+- Description of interactive element(s)
+   - <b>Interactive Tableau charts</b> – A combination of line, bar, scatter graphs
+   - <b>Interactive Infographics</b> – This will show stats between the white and red wines
+   - <b>Input features form</b> - This will allow the end user to input features to determine where their wine compares whether it be low, medium, or high quality
+   - <b>Input features submit button</b> – This will submit the features to return the quality status
+   - <b>Social media sharing buttons</b> – This will end users to contact a team member
+

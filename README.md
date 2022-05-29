@@ -71,6 +71,7 @@ The red and white wines are from the Portuguese “Vinho Verde” wine. For more
 - Machine Learning:
 
      - Link to [Machine Learning File](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/ML/wine_quality.ipynb)
+     - Link. to [Descriptions of ML Choice & Data Processing](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/ML/MachineLearning.md)
 
    Outcomes of ML:
       

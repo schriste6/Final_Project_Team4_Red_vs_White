@@ -91,7 +91,7 @@ The red and white wines are from the Portuguese “Vinho Verde” wine. For more
 
 - Link to  Dashboard (placeholder - - will add link upon final development)
    - Link to [Dashboard Concept](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/Dashboard/blueprint.pptx)
-   - Link to [Draft_Website] (https://winequalityprediction.wordpress.com/)
+   - Link to Website (https://winequalityprediction.wordpress.com/)
 
 - Description of the tool(s) that will be used to create final dashboard 
    - <b>Tableau</b> is a very powerful tool which is fast growing to be number 1 in data visualization for the Business Intelligence Industry. It helps in simplifying raw data in a very user-friendly format which makes it understandable by professionals at any level within an organization.

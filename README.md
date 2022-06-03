@@ -91,7 +91,7 @@ The red and white wines are from the Portuguese “Vinho Verde” wine. For more
 
 - Dashboard 
    - Link to [Dashboard Concept](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/Dashboard/blueprint.pptx)
-   - Link to [Tableau Storyboard] (https://public.tableau.com/app/profile/schriste/viz/Wine_Quality_16541204179130/WineQuality)
+   - Link to [Tableau Storyboard](https://public.tableau.com/app/profile/schriste/viz/Wine_Quality_16541204179130/WineQuality)
    - Link to Website (https://winequalityprediction.wordpress.com/)
 
 - Description of the tool(s) that will be used to create final dashboard 

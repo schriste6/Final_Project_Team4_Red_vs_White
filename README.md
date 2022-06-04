@@ -60,7 +60,7 @@ The red and white wines are from the Portuguese “Vinho Verde” wine. For more
 
 ## Second Segment: Build the Pieces:
 
-- [Link to Google Slides Presentation (draft)](https://docs.google.com/presentation/d/1pPYPIXXhRFoOzt5iiAWw96NKfVK3uW4QkJN_iUF9DdE/edit?usp=sharing) 
+- [Link to Google Slides Presentation](https://docs.google.com/presentation/d/1pPYPIXXhRFoOzt5iiAWw96NKfVK3uW4QkJN_iUF9DdE/edit?usp=sharing) 
 
 - Database:
    - [Database and SQL steps documentation file](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/Database%20and%20SQL%20steps.docx)
@@ -99,7 +99,7 @@ The red and white wines are from the Portuguese “Vinho Verde” wine. For more
    - <b>WordPress</b> is a flexible blogging and content management system that enables users to create, publish and manage websites
    
 - Description of interactive element(s)
-   - <b>Interactive Tableau charts</b> – A combination of line, bar, scatter graphs
+   - <b>Interactive Tableau charts</b> – A combination of bar charts, a pie chart, a heatmap/highlight table with two interactive filters for color and grade
    - <b>Interactive Infographics</b> – This will show stats between the white and red wines
    - <b>Input features form</b> - This will allow the end user to input features to determine where their wine compares whether it be low, medium, or high quality
    - <b>Input features submit button</b> – This will submit the features to return the quality status

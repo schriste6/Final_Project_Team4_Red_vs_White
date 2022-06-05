@@ -4,6 +4,10 @@
 ![redvswhite]( https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/Images/shutterstock_249172333.jpg)
 # Wine Quality and Machine Learning 
 ## Project Title: Red vs White Wine
+
+## Project Overview:   
+Our project focuses on wine quality and how the 11 attributes contribute to final quality score (1-10) and quality grade (Low, Medium, High).  Using Machine Learning wine quality will be predicated based on the physicochemical values of the 11 attributes.     
+
 ## Project Team Members and their role responsibilities
 - <b>Square:</b> Sue Christensen - Responsible for Github repository and branches
 - <b>Triangle:</b> Dhileepan Raju - Responsible for mockup/machine learning model

@@ -13,9 +13,6 @@
 ## Machine Learning Model: 
    - <b>Classification:</b> The classification algorithm is a Supervised Learning Technique that is used to identify the category of new observations on the basis of training data. In Classiffication, a program learns from the given dataset or observations and then classifies new observation into a number of classes or groups.
 
-## Communication Protocols
-   - For the duration of this project, Slack was the primary communication platform, with email and text message as secondary options, and Zoom technology supported twice weekly and adhoc meetings.    
-
 ## Project Technology Used:
 - GitHub
     - Main Branch
@@ -60,16 +57,48 @@ The red and white wines are from the Portuguese “Vinho Verde” wine. For more
 
 ## Second Segment: Build the Pieces:
 
-- [Link to Google Slides Presentation (draft)](https://docs.google.com/presentation/d/1pPYPIXXhRFoOzt5iiAWw96NKfVK3uW4QkJN_iUF9DdE/edit?usp=sharing) 
+- Link to [Google Slides Presentation](https://docs.google.com/presentation/d/1pPYPIXXhRFoOzt5iiAWw96NKfVK3uW4QkJN_iUF9DdE/edit?usp=sharing) 
 
 - Database:
-   - [Database and SQL steps documentation file](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/Database%20and%20SQL%20steps.docx)
+   - Link to [Database and SQL steps documentation file](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/Database%20and%20SQL%20steps.docx)
       - [ERD](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/ERD.png)
       - [Final_Project_Queries](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/Final_Project_Queries.sql)
       - [Connection String](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/connectionstring.ipynb)
       - [Combined Wine Quality CSV](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/combined_wine_quality.csv)
 - Machine Learning:
 
-- Link to  Dashboard (placeholder - - will add link upon final development)
+     - Link to [Machine Learning File](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/ML/wine_quality.ipynb)
+     - Link to [Descriptions of ML Choice & Data Processing](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/ML/MachineLearning.md)
+
+   Outcomes of ML:
+      
+   ```
+   Random Forest Model from Sklearn gives better prediction results compare to other models
+   Higher the Alcohol content the Grade of wine is better
+   Lower the Sulfur Dioxide the Grade of the wine is better (High quality wines has low SO2) 
+   ```         
+            
+   Model Comparison: 
+
+   ![ML Output](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/ML/ML_Comparison.png)
+   
+   **Extra: Reuse majority of code to predit Color of wine**
+   - Link to [Wine Color Prediction](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/ML/wine_color_v1.ipynb)
+
+
+- Dashboard 
    - Link to [Dashboard Concept](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/Dashboard/blueprint.pptx)
-   - Link to [Draft_Website] (https://winequalityprediction.wordpress.com/)
+   - Link to [Tableau Storyboard](https://public.tableau.com/app/profile/schriste/viz/Wine_Quality_16541204179130/WineQuality)
+   - Link to [Website Dashboard](https://winequalityprediction.wordpress.com/)
+
+- Description of the tool(s) that will be used to create final dashboard 
+   - <b>Tableau</b> is a very powerful tool which is fast growing to be number 1 in data visualization for the Business Intelligence Industry. It helps in simplifying raw data in a very user-friendly format which makes it understandable by professionals at any level within an organization.
+   - <b>WordPress</b> is a flexible blogging and content management system that enables users to create, publish and manage websites
+   
+- Description of interactive element(s)
+   - <b>Interactive Tableau charts</b> – A combination of bar charts, a pie chart, a heatmap/highlight table with two interactive filters for color and grade
+   - <b>Interactive Infographics</b> – This will show stats between the white and red wines
+   - <b>Input features form</b> - This will allow the end user to input features to determine where their wine compares whether it be low, medium, or high quality
+   - <b>Input features submit button</b> – This will submit the features to return the quality status
+   - <b>Social media sharing buttons</b> – This will end users to contact a team member
+

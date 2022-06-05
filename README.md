@@ -31,7 +31,7 @@ Our project focuses on wine quality and how the 11 attributes contribute to fina
      - JavaScript
      - HTML
 
-## First Segment: Sketch It Out:
+## Project Introduction
 
 - <b>Topic:</b> Red vs White Wine
 - <b>Reason for selected topic:</b> This topic was one that all the members of the group had some familiarity with the subject and an interest in it as well.
@@ -59,7 +59,7 @@ The red and white wines are from the Portuguese “Vinho Verde” wine. For more
 - <b>Question we hope to answer with the data:</b>
      - Can we predict the quality of red and white wine samples, based on physicochemical tests, to determine if it is low, medium, or high quality? 
 
-## Second Segment: Build the Pieces:
+## Project Outline
 
 - Link to [Google Slides Presentation](https://docs.google.com/presentation/d/1pPYPIXXhRFoOzt5iiAWw96NKfVK3uW4QkJN_iUF9DdE/edit?usp=sharing) 
 

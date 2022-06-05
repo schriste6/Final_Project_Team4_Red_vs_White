@@ -13,9 +13,6 @@
 ## Machine Learning Model: 
    - <b>Classification:</b> The classification algorithm is a Supervised Learning Technique that is used to identify the category of new observations on the basis of training data. In Classiffication, a program learns from the given dataset or observations and then classifies new observation into a number of classes or groups.
 
-## Communication Protocols
-   - For the duration of this project, Slack was the primary communication platform, with email and text message as secondary options, and Zoom technology supported twice weekly and adhoc meetings.    
-
 ## Project Technology Used:
 - GitHub
     - Main Branch

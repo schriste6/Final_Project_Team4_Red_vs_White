@@ -84,9 +84,17 @@ The red and white wines are from the Portuguese “Vinho Verde” wine. For more
             
    Model Comparison: 
 
-   ![ML Output](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/ML/ML_Comparison.png)
+   ![ML Output](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/ML/output/ML_Comparison.png)
    
-   **Extra: Reuse majority of code to predit Color of wine**
+   Feature Comparison:
+   
+   ![Feature Comparison](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/ML/output/feature_comparison_by_grade.png)
+   
+   Random Forest Classification Report:
+   
+   ![Classification_report](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/ML/output/classification_report.png)
+   
+   **Bonus: Reuse majority of code to predit Color of wine**
    - Link to [Wine Color Prediction](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/ML/wine_color_v1.ipynb)
 
 

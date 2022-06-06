@@ -16,7 +16,15 @@
 
 Model Comparison:
 
- ![ML Output](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/ML/ML_Comparison.png)
+ ![ML Output](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/ML/output/ML_Comparison.png)
+ 
+ Random Forest Classification Report:
+ 
+ ![classification Report](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/ML/output/classification_report.png)
+ 
+ Confusion matrix for Random Forest Classifier:
+ 
+ ![Confusion matrix](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/ML/output/rfc_confusion_matrix.png)
 
 Advantage of the Model:
 - Random forest can solve both type of problems that is classification and regression and does a decent estimation at both fronts.
@@ -29,4 +37,4 @@ Disadvantage of the Model:
 - The main limitation of random forest is that a large number of trees can make the algorithm too slow and ineffective for real-time predictions. In general, these algorithms are fast to train, but quite slow to create predictions once they are trained.
 - Random forest can feel like a black box approach for a statistical modelers we have very little control on what the model does. You can at best try different parameters and random seeds.
 
-To increase Accuracy we will explore Normalizing Features in Segment 3
+

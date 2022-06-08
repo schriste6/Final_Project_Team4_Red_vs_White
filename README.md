@@ -1,24 +1,21 @@
 # Final Project - Team4 - Wine Quality and Machine Learning 
-## Project Title: Red vs White Wine
+
 
 ![redvswhite]( https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/Images/shutterstock_249172333.jpg)
----
-## Project Team Members and their roles
-- <b>Square:</b> Sue Christensen
-- <b>Triangle:</b> Dhileepan Raju
-- <b>Circle:</b> Jessica Meyer
-- <b>X:</b> Mary Uhlir
+# Wine Quality and Machine Learning 
+## Project Title: Red vs White Wine
 
-## Team Member Role Responsibilities
-- <b>Square:</b> Responsible for Github repository and branches
-- <b>Triangle:</b> Responsible for mockup/machine learning model
-- <b>Circle:</b> Responsible for mockup/database
-- <b>X:</b> Responsible for which technologies/strategy for life of project
+## Project Overview:   
+Our project focuses on wine quality and how the 11 attributes contribute to final quality score (1-10) and quality grade (Low, Medium, High).  Using Machine Learning we will predict the quality grade, that is based on physicochemical test values.     
+
+## Project Team Members and their role responsibilities
+- <b>Square:</b> Sue Christensen - Responsible for Github repository and branches
+- <b>Triangle:</b> Dhileepan Raju - Responsible for mockup/machine learning model
+- <b>Circle:</b> Jessica Meyer - Responsible for mockup/database
+- <b>X:</b> Mary Uhlir - Responsible for which technologies/strategy for life of project
+
 ## Machine Learning Model: 
    - <b>Classification:</b> The classification algorithm is a Supervised Learning Technique that is used to identify the category of new observations on the basis of training data. In Classiffication, a program learns from the given dataset or observations and then classifies new observation into a number of classes or groups.
-
-## Communication Protocols
-   - For the duration of this project, Slack was the primary communication platform, with email and text message as secondary options, and Zoom technology supported twice weekly and adhoc meetings.    
 
 ## Project Technology Used:
 - GitHub
@@ -30,11 +27,16 @@
 - Python
     - Jupiter notebook
 - Tableau
+- WordPress
+     - JavaScript
+     - HTML
 
-## First Segment: Sketch It Out:
+## Project Introduction
 
 - <b>Topic:</b> Red vs White Wine
 - <b>Reason for selected topic:</b> This topic was one that all the members of the group had some familiarity with the subject and an interest in it as well.
+- <b>Objective:</b> Accurately predict wine quality based on 11 physicochemical attributes with machine learning and available wine data sets.  
+- <b>Target Audience:</b> Winemakers (aka Vintners)
 - <b>Description of source data:</b> 
 Two datasets were created, using red and white wine samples. The inputs include objective tests (e.g. PH values) and the output is based on sensory data (median of at least 3 evaluations made by wine experts). Each expert graded the wine quality between 0 (very bad) and 10 (very excellent).
 The red and white wines are from the Portuguese “Vinho Verde” wine. For more details, consult: http://www.vinhoverde.pt/en/ or the reference [Cortez et al., 2009]. Due to privacy and logistic issues, only physicochemical (inputs) and sensory (the output) variables are available (e.g. there is no data about grape types, wine brand, wine selling price, etc.).
@@ -48,46 +50,67 @@ The red and white wines are from the Portuguese “Vinho Verde” wine. For more
     - <b>Data set attributes</b>: 
        - 11 input attributes
        - 1 output attribute
-    - <b>Attributes</b>: 
-      - fixed acidity
-      - volatile acidity
-      - citric acid
-      - residual sugar
-      - chlorides
-      - free sulfur dioxide
-      - total sulfur dioxide
-      - density
-      - pH
-      - sulphates
-      - alcohol
-      - quality
-     - <b>Description of attributes</b>:
-          1. <b>fixed acidity</b>: most acids involved with wine or fixed or nonvolatile (do not evaporate readily)
-          2. <b>volatile acidity</b>: the amount of acetic acid in wine, which at too high of levels can lead to an unpleasant, vinegar taste
-          3. <b>citric acid</b>: found in small quantities, citric acid can add ‘freshness’ and flavor to wines
-          4. <b>residual sugar</b>: the amount of sugar remaining after fermentation stops, it’s rare to find wines with less than 1 gram/liter and wines with greater than 45 grams/liter are considered sweet
-          5. <b>chlorides</b>: the amount of salt in the wine
-          6. <b>free sulfur dioxide</b>: the free form of SO2 exists in equilibrium between molecular SO2 (as a dissolved gas) and bisulfite ion; it prevents microbial growth and the oxidation of wine
-          7. <b>total sulfur dioxide</b>: amount of free and bound forms of S02; in low concentrations, SO2 is mostly undetectable in wine, but at free SO2 concentrations over 50 ppm, SO2 becomes evident in the nose and taste of wine
-          8. <b>density</b>: the density of water is close to that of water depending on the percent alcohol and sugar content
-          9. <b>pH</b>: describes how acidic or basic a wine is on a scale from 0 (very acidic) to 14 (very basic); most wines are between 3-4 on the pH scale
-          10.<b>sulphates</b>: a wine additive which can contribute to sulfur dioxide gas (S02) levels, wich acts as an antimicrobial and antioxidant
-          11. <b>alcohol</b>: the percent alcohol content of the wine       
-          12. <b>quality (based on sensory data)</b>: (score between 0 and 10)
-- <b>Questions we hope to answer with the data:</b>
-     - Can we predict the quality of each red and white wine sample, to determine if it is low, medium, or high quality? 
+    - <b>Wine Attributes</b>:   
+       - **Inputs (based on physicochemical tests):** 1 - fixed acidity 2 - volatile acidity 3 - citric acid 4 - residual sugar 5 - chlorides 6 - free sulfur dioxide 7 - total sulfur dioxide 8 - density 9 - pH 10 - sulphates 11 - alcohol   
+       - **Output (based on scensory data):** 12 - quality 
+         
+    - [Link to Wine Attributes Descriptions](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/Images/Desc_of_wine_attributes.png)
+        
+- <b>Question we hope to answer with the data:</b>
+     - Can we predict the quality of red and white wine samples, based on physicochemical tests, to determine if it is low, medium, or high quality? 
 
-## Second Segment: Build the Pieces:
+## Project Outline
 
-- [Link to Google Slides Presentation (draft)](https://docs.google.com/presentation/d/1pPYPIXXhRFoOzt5iiAWw96NKfVK3uW4QkJN_iUF9DdE/edit?usp=sharing) 
+- Link to [Google Slides Presentation](https://docs.google.com/presentation/d/1pPYPIXXhRFoOzt5iiAWw96NKfVK3uW4QkJN_iUF9DdE/edit?usp=sharing) 
 
 - Database:
-   - [Database and SQL steps documentation file](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/Database%20and%20SQL%20steps.docx)
+   - Link to [Database and SQL steps documentation file](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/Database%20and%20SQL%20steps.docx)
       - [ERD](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/ERD.png)
       - [Final_Project_Queries](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/Final_Project_Queries.sql)
       - [Connection String](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/connectionstring.ipynb)
       - [Combined Wine Quality CSV](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/SQL/combined_wine_quality.csv)
 - Machine Learning:
 
-- Link to  Dashboard (placeholder - - will add link upon final development)
-   - Link to Dashboard Concept
+     - Link to [Machine Learning File](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/ML/wine_quality.ipynb)
+     - Link to [Descriptions of ML Choice & Data Processing](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/ML/MachineLearning.md)
+
+   Outcomes of ML:
+      
+   ```
+   Random Forest Model from Sklearn gives better prediction results compare to other models
+   Higher the Alcohol content the Grade of wine is better
+   Lower the Sulfur Dioxide the Grade of the wine is better (High quality wines has low SO2) 
+   ```         
+            
+   Model Comparison: 
+
+   ![ML Output](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/ML/output/ML_Comparison.png)
+   
+   Feature Comparison:
+   
+   ![Feature Comparison](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/ML/output/feature_comparison_by_grade.png)
+   
+   Random Forest Classification Report:
+   
+   ![Classification_report](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/ML/output/classification_report.png)
+   
+   **Bonus: Reuse majority of code to predit Color of wine**
+   - Link to [Wine Color Prediction](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/ML/wine_color_v1.ipynb)
+
+
+- Dashboard 
+   - Link to [Dashboard Concept](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/Dashboard/blueprint.pptx)
+   - Link to [Tableau Storyboard](https://public.tableau.com/app/profile/schriste/viz/Wine_Quality_16541204179130/WineQuality)
+   - Link to [Website Dashboard](https://winequalityprediction.wordpress.com/)
+
+- Description of the tool(s) that will be used to create final dashboard 
+   - <b>Tableau</b> is a very powerful tool which is fast growing to be number 1 in data visualization for the Business Intelligence Industry. It helps in simplifying raw data in a very user-friendly format which makes it understandable by professionals at any level within an organization.
+   - <b>WordPress</b> is a flexible blogging and content management system that enables users to create, publish and manage websites
+   
+- Description of interactive element(s)
+   - <b>Interactive Tableau charts</b> – A combination of bar charts, a pie chart, a heatmap/highlight table with two interactive filters for color and grade
+   - <b>Interactive Infographics</b> – This will show stats between the white and red wines
+   - <b>Input features form</b> - This will allow the end user to input features to determine where their wine compares whether it be low, medium, or high quality
+   - <b>Input features submit button</b> – This will submit the features to return the quality status
+   - <b>Social media sharing buttons</b> – This will end users to contact a team member
+

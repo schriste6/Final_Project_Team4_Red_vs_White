@@ -95,7 +95,7 @@ The red and white wines are from the Portuguese “Vinho Verde” wine. For more
    ![Classification_report](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/ML/output/classification_report.png)
    
    **Bonus: Reuse majority of code to predit Color of wine**
-   - Link to [Wine Color Prediction](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/ML/wine_color_v1.ipynb)
+   - Link to [Wine Color Prediction](https://github.com/schriste6/Final_Project_Team4_Red_vs_White/blob/main/ML/extra/wine_color_v1.ipynb)
 
 
 - Dashboard 
